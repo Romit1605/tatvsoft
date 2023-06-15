@@ -7,7 +7,7 @@ import MyNavigation from "./MyNavigation";
 import { Provider } from "react-redux";
 import store from "./state/store";
 import { loadIcon } from "./assets";
-import "./App.css";
+
 
 function App() {
   return (
